@@ -4,4 +4,4 @@ To run the injection-recovery test, follow these steps:
 3. Update PROCESSES in do_multiprocessing.py to the number of cores you want to use. Also update the properties of the injected planets, if desired.
 4. Run the parallelized search by entering "python do_multiprocessing.py" in the command line.
 
-The included files RANDOM_SAMPLE.csv and injection_recovery_results_final.py correspond to the random stellar sample and injection-recovery results discussed in Giacalone & Dressing (2024).
+The included file RANDOM_SAMPLE.csv corresponds to the random stellar sample used for injection-recovery tests in Giacalone & Dressing (2024).
